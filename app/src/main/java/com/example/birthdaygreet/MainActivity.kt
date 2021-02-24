@@ -36,8 +36,7 @@ class MainActivity : AppCompatActivity() {
             // Lets print a toast
             // Toast.makeText(this, "Button was clicked", Toast.LENGTH_LONG).show()
 
-
-            // we can use the input text as toast message here
+        // we can use the input text as toast message here
             // We extracted the name via editableText from nameInput, converted it to string and passed it to toast
             // val name = nameInput.editableText.toString()
             // Toast.makeText(this, "My Name is $name", Toast.LENGTH_LONG).show()
