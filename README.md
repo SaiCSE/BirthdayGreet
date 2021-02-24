@@ -1,3 +1,3 @@
 # BirthdayGreet
 
-This is a simple borthday Wishing App
+This is a simple birthday Wishing App
