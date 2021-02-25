@@ -15,14 +15,15 @@
         android:theme="@style/Theme.BirthdayGreet">
         <activity android:name=".BirthdayActivityGreeting"></activity>
         <activity android:name=".BirthdayGreetingActivity" />
-        <activity android:name=".BIrthdayGreetingActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity> <!-- This is for metadata of CT ! -->
+        </activity>
+
+        <!-- This is for metadata of CT ! -->
         <meta-data
             android:name="CLEVERTAP_ACCOUNT_ID"
             android:value="R55-K4Z-KZ6Z" />
